@@ -1,6 +1,6 @@
 ## Original Tutorial
 
-`https://scotch.io/tutorials/build-a-media-library-with-react-redux-and-redux-saga-part-2`
+[https://scotch.io/tutorials/build-a-media-library-with-react-redux-and-redux-saga-part-2](https://scotch.io/tutorials/build-a-media-library-with-react-redux-and-redux-saga-part-2)
 
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
